@@ -8,6 +8,7 @@ package ru.foxit.grayfox;
  * Специальный класс для заметок для всех моих проектов!!
  */
 
+
 public class NoteJava {
     public static void main(String[] args) {
         keyJava();
