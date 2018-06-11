@@ -8,6 +8,14 @@ package ru.foxit.grayfox.animal;
 // todo | (Например, dog1.run(150); -> результат: run: true)
 // todo | 5. * Добавить животным разброс в ограничениях. То есть у одной собаки ограничение на бег может быть
 // todo | 400 м., у другой 600 м.
+
+/**
+ * Author Main.java - GrayFox | Ilya Lisin
+ * Contact: Skype: foxygameskype | Telegram: +7(925)316-65-82 | vk: https://vk.com/exsperto1
+ * GitHub: https://github.com/FoxITeam and https://github.com/GrayFoxIT
+ * encoding: UTF-8, Comments, remarks in Russian.
+ */
+
 public class Main {
     // В абстрактном классе мы пишем правила для всех животных (общее поведение для всех животных) и любой объект который
     // хочет стать животным, обязан следовать этим правилам.

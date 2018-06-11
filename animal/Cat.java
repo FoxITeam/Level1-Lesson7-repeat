@@ -1,5 +1,12 @@
 package ru.foxit.grayfox.animal;
 
+/**
+ * Author Cat.java - GrayFox | Ilya Lisin
+ * Contact: Skype: foxygameskype | Telegram: +7(925)316-65-82 | vk: https://vk.com/exsperto1
+ * GitHub: https://github.com/FoxITeam and https://github.com/GrayFoxIT
+ * encoding: UTF-8, Comments, remarks in Russian.
+ */
+
 public class Cat extends Animal {
     public Cat(int runDistance, int swimDistance, float jumpHeight) {
         super(runDistance, swimDistance, jumpHeight);

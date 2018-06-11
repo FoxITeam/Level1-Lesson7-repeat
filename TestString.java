@@ -1,5 +1,12 @@
 package ru.foxit.grayfox;
 
+/**
+ * Author TestString.java - GrayFox | Ilya Lisin
+ * Contact: Skype: foxygameskype | Telegram: +7(925)316-65-82 | vk: https://vk.com/exsperto1
+ * GitHub: https://github.com/FoxITeam and https://github.com/GrayFoxIT
+ * encoding: UTF-8, Comments, remarks in Russian.
+ */
+
 import java.util.Arrays;
 
 public class TestString {
@@ -62,6 +69,5 @@ public class TestString {
         // trim - если строка заканчивается пустыми символами, то он обрежит их. Обрезка строки по пустым символам. Вырезает только пробелы по краям, внутренние символы он нам оставит. Обычно применяется к полям логина и пароля!
         // subSequence - возвращает charSequence по заданным точкам, начальная и конечная индексы символы.
         // Еще это не строка, То есть вернув строки с 0 и 5, вам нужно еще вызвать в него ту стринг, чтобы он напечатался. Вообще он печатается по умолчанию, но вообще всегда когда мы вызываем чарСиквенс, мы должны напечатать его, не забываем!
-
     }
 }
